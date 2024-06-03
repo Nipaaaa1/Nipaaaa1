@@ -3,7 +3,7 @@
 I'm Devan - a Front-End Developer that sometimes do a challenge on [Frontend Metor](https://www.frontendmentor.io/profile/Nipaaaa1). I loved programming and aiming to become a great developer that contributes on Open Source projects. Nice to meet you!
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,tailwind,react,vue,nuxtjs,nextjs,git,github,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vue,nuxtjs,nextjs,git,github,figma,docker)](https://skillicons.dev)
 
 
 
